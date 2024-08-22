@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "fs.h": "c",
+        "device.h": "c",
+        "cdev.h": "c",
+        "kfifo.h": "c",
+        "slab.h": "c",
+        "init.h": "c",
+        "spinlock.h": "c",
+        "completion.h": "c"
+    }
+}
